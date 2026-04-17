@@ -5,6 +5,9 @@
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
+<img width="1536" height="1024" alt="ChatGPT Image 17 abr 2026, 05_21_52 p m" src="https://github.com/user-attachments/assets/9dccf485-79f5-4cbe-baac-bf40a6e39cb2" />
+
+
 ---
 
 ## 📌 Project Overview
